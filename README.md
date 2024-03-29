@@ -1,2 +1,2 @@
-# estudos_em_django-cadastro_de_usuarios
-Estudos em Django📚💻
+# Projeto: Cadastro de usuários | Estudos em Django📚💻
+
